@@ -1,0 +1,6 @@
+name: Custom Form
+description: Adds a custom form handler
+package: custom
+
+type: module
+core: 8.x
